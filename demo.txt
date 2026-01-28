@@ -1,0 +1,2 @@
+This is my first file in the Git tutorial.
+Learning Git is essential for version control.
