@@ -1,2 +1,5 @@
 This is my first file in the Git tutorial.
 Learning Git is essential for version control.
+
+Modified: Adding new content to demonstrate git diff.
+Git tracks all changes made to files.
